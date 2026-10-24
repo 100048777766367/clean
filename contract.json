@@ -1,0 +1,11 @@
+{
+    "contract_id": "bodhi.clean.v1",
+    "identity": "100048777766367/clean",
+    "archetype": "ACTION_GOLEM",
+    "role": "SANITIZER_SECURITY_GATEWAY",
+    "network_partners": {
+        "open": "100048777766367/open",
+        "storage": "100048777766367/storage"
+    },
+    "io_specification": "I/O (SANITIZER_SECURITY_GATEWAY)"
+}
